@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/startreact_2020/static/css/main.3eb917d9.chunk.css",
+    "main.js": "/startreact_2020/static/js/main.2631f270.chunk.js",
+    "main.js.map": "/startreact_2020/static/js/main.2631f270.chunk.js.map",
+    "runtime-main.js": "/startreact_2020/static/js/runtime-main.f75660bb.js",
+    "runtime-main.js.map": "/startreact_2020/static/js/runtime-main.f75660bb.js.map",
+    "static/js/2.87ced4fa.chunk.js": "/startreact_2020/static/js/2.87ced4fa.chunk.js",
+    "static/js/2.87ced4fa.chunk.js.map": "/startreact_2020/static/js/2.87ced4fa.chunk.js.map",
+    "index.html": "/startreact_2020/index.html",
+    "precache-manifest.cc2b683e3956319b2a4e9b42a704f4a9.js": "/startreact_2020/precache-manifest.cc2b683e3956319b2a4e9b42a704f4a9.js",
+    "service-worker.js": "/startreact_2020/service-worker.js",
+    "static/css/main.3eb917d9.chunk.css.map": "/startreact_2020/static/css/main.3eb917d9.chunk.css.map",
+    "static/js/2.87ced4fa.chunk.js.LICENSE": "/startreact_2020/static/js/2.87ced4fa.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f75660bb.js",
+    "static/js/2.87ced4fa.chunk.js",
+    "static/css/main.3eb917d9.chunk.css",
+    "static/js/main.2631f270.chunk.js"
+  ]
+}
